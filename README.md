@@ -39,7 +39,7 @@ https://github.com/mkhaled146/CODSOFT--Tasks/blob/main/SALES%20PREDICTION%20USIN
 ![](https://github.com/mkhaled146/CODSOFT--Tasks/blob/main/card%20fraud.jpg)
 
 
-https://github.com/mkhaled146/CODSOFT--Tasks/blob/main/credit-card-fraud-detection.ipynb
+https://github.com/mkhaled146/CODSOFT--Tasks/blob/main/credit-card-fraud-detection%20.ipynb
 
 
 
